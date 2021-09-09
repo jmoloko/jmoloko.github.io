@@ -131,8 +131,7 @@ comments:
     clientSecret: 8c31188d12fbba285cacf3c7e5d7353203ea5a2a # GitHub Application Client Secret
     repository  : jmoloko.github.io # GitHub repo
     owner       : jmoloko # GitHub repo owner
-    admin:      # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - jmoloko
+    admin:      ['jmoloko'] # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
