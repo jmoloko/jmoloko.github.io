@@ -129,10 +129,10 @@ comments:
   gitalk:
     clientID    : 1846320bd768c916fc44 # GitHub Application Client ID
     clientSecret: 9971832dee8824007cc57ba3bfe716edcef81e13 # GitHub Application Client Secret
-    repository  : https://jmoloko.github.io # GitHub repo
+    repository  : jmoloko.github.io # GitHub repo
     owner       : jmoloko # GitHub repo owner
     admin:      # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - 73720616 # your GitHub Id
+      - jmoloko
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
