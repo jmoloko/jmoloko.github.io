@@ -3,6 +3,7 @@ header:
       # @start locale config
       en: &EN Posts
       # @end locale config
+    key: posts
     url: /
 
   - title:
