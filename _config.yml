@@ -187,7 +187,7 @@ exclude:
 
 defaults:
   - scope:
-      path: ""
+      path: "/"
       type: posts
     values:
       layout: article
