@@ -120,7 +120,7 @@ comments:
     owner: jmoloko # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - jmoloko
-    proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
+    proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
@@ -187,7 +187,7 @@ exclude:
 
 defaults:
   - scope:
-      path: "/"
+      path: ""
       type: posts
     values:
       layout: article
