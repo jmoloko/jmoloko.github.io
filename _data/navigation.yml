@@ -1,19 +1,8 @@
 header:
-  - title:
-      # @start locale config
-      en: &EN Posts
-      # @end locale config
-    key: posts
+  - title: Posts
     url: /
-
-  - title:
-      # @start locale config
-      en: &EN Archive
-      # @end locale config
+    key: posts
+  - title: Archive
     url: /archive.html
-
-  - title:
-      # @start locale config
-      en: &EN About
-      # @end locale config
+  - title: About
     url: /about.html
