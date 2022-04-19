@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "983d136e92b24f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b60047fe049e4b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2018-06-01-header-image.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad4aaef10d96546",
+    "type": "split",
+    "children": [
+      {
+        "id": "37df36f1716cef77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad88a0183b035e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba1db27b0342fa73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05701bec2fdd9da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6565cd487c1d5a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2639aa9446ccfb79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2018-06-01-header-image.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b60047fe049e4b7",
+  "lastOpenFiles": [
+    "_posts/2018-06-01-header-image.md",
+    "_posts/2021-09-09-new-post.md",
+    "_posts/2018-07-01-welcome.md"
+  ]
+}
