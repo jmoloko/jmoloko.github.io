@@ -1,9 +1,10 @@
 ---
 layout: article
-titles: Андрей. Вроде как начинающий программист...
+title: About
 key: page-about
 ---
 
+### Андрей. Вроде как начинающий программист...
 
 <div class="grid-containre">
 <div class="grid grid--p-2">
@@ -22,5 +23,5 @@ key: page-about
 </div>
 </div>
 
-## Итак, кто я...
+### Итак, кто я...
 
