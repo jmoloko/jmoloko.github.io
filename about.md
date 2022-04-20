@@ -26,7 +26,21 @@ titles:
 key: page-about
 ---
 
-![Image](/images/avatar.jpg){:.circle.border.shadow}
+
+<div class="grid-containre">
+<div class="grid grid--p-2">
+<div class="cell cell--12 cell--md-4 " markdown="1">
+![Image](/images/avatar.jpg){:.border}
+</div>
+<div class="cell cell--12 cell--md-auto" markdown="1">
+    ### Андрей
+    > * github:
+    > * site:
+    > * linkedin:
+    > * email:
+</div>
+</div>
+</div>
 
 ## Features
 
