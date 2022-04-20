@@ -33,13 +33,13 @@ key: page-about
 ![Image](/images/avatar.jpg){:.border}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
-    
+```bash
     github:
     site:
     linkedin:
     email:
     telegram:
-
+```    
 </div>
 </div>
 </div>
