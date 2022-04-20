@@ -64,7 +64,7 @@ class Main {
 ```
 ![Image](/images/Java Collection Framework.drawio_2.svg)
 
-### Collections<E> extends Iterable<E>
+### Collections< E > extends Iterable< E >
 * `int size();`
 * `boolean isEmpty();`
 * `boolean contains(Object o);`
@@ -78,7 +78,7 @@ class Main {
 * `boolean retainAll(Collection<?> c);`
 * `void clear();`
 
-### List<E> extends Collection<E>
+### List< E > extends Collection< E >
 * `boolean addAll(int index, Collection<? extends E> c);`
 * `void sort(Comparator<? super E> c);`
 * `E get(int index);`
@@ -91,7 +91,7 @@ class Main {
 * `ListIterator<E> listIteraor(int index);`
 * `List<E> subList(int fromIndex, int toIndex);`
 
-### ListIterator<E> extends Iterator<E>
+### ListIterator< E > extends Iterator< E >
 * `boolean hasPrevious();`
 * `E previous();`
 * `int nextIndex();`
