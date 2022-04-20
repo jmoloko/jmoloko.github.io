@@ -33,11 +33,11 @@ key: page-about
 ![Image](/images/avatar.jpg){:.border}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
-    ### Андрей
-    > * github:
-    > * site:
-    > * linkedin:
-    > * email:
+    <h3>Андрей</h3>
+    <p>github:</p>
+    <p>site:</p>
+    <p>linkedin:</p>
+    <p>email:</p>
 </div>
 </div>
 </div>
