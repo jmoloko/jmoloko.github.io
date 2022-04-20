@@ -12,7 +12,13 @@ key: page-about
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 ```json
+
+
 {
+    name: Andrey B.,
+    age: 41,
+    country: Russia,
+    city: Chelyabinsk,
     contacts:
         {
             github: github.com/jmoloko,
@@ -22,6 +28,8 @@ key: page-about
             telegram: @jackmoloko
         }
 }
+
+
 ```    
 </div>
 </div>
