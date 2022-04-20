@@ -9,7 +9,7 @@ key: exceptions
 
 <!--more-->
 
-![Image](/images/Exception.drawio.png)
+![Image](https://drive.google.com/file/d/1VAqESso8G8TM15oYWJt-mgtfcJsDoiIU/view?usp=sharing)
 
 ```java
 public class Test {
