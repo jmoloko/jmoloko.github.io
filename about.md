@@ -1,10 +1,9 @@
 ---
 layout: article
-title: About
+titles: About
 key: page-about
 ---
 
-### Андрей. Вроде как начинающий программист...
 
 <div class="grid-containre">
 <div class="grid grid--p-2">
