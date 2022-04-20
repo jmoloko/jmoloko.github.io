@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About
+titles: About
 key: page-about
 ---
 
@@ -11,12 +11,17 @@ key: page-about
 ![Image](/images/avatar.jpg){:.border}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
-```bash
-github -> github.com/jmoloko
-site -> jmoloko.github.io
-linkedin -> linkedin.com/in/andrey-b-437b56231
-email -> jackmoloko@yandex.ru
-telegram -> @jackmoloko
+```json
+{
+    contacts:
+        {
+            github: github.com/jmoloko,
+            site: jmoloko.github.io,
+            linkedin: linkedin.com/in/andrey-b-437b56231,
+            email: jackmoloko@yandex.ru,
+            telegram: @jackmoloko
+        }
+}
 ```    
 </div>
 </div>
