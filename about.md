@@ -1,7 +1,6 @@
 ---
 layout: article
 titles: About
-key: page-about
 ---
 
 
@@ -12,6 +11,7 @@ key: page-about
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
 ```json
+
 
 
 {
@@ -28,6 +28,7 @@ key: page-about
             telegram: @jackmoloko
         }
 }
+
 
 
 ```    
