@@ -1,6 +1,6 @@
 ---
 title: Collections. Коллекции в Java.
-tags: java exceptions
+tags: java collections
 author: Jack Moloko
 key: collections
 ---
