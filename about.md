@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![Image](/images/avatar.jpg)
+![Image](/images/avatar.jpg){:.circle.border.shadow}
 
 ## Features
 
