@@ -9,7 +9,7 @@ key: exceptions
 
 <!--more-->
 
-![Image](./images/Exception.drawio.png)
+![Image](/images/Exception.drawio.png)
 
 ```java
 public class Test {
@@ -29,23 +29,23 @@ public class Test {
 ### Конструирование исключений
 
 _Throwable, Exception, RuntimeException_
-> * Throwable()
-> * Throwable(message)
-> * Throwable(cause)
-> * Throwable(message, cause)
-> * protected Throwable(message, cause, suppression, stackTrace)
+* `Throwable()`
+* `Throwable(message)`
+* `Throwable(cause)`
+* `Throwable(message, cause)`
+* `protected Throwable(message, cause, suppression, stackTrace)`
 
 ### Что есть у исключений
-> * Сообщение (getMessage())
-> * Стек (getStackTrace())
-> * Причина (getCause())
-> * Подавленные исключения (addSuppressed()/getSuppressed())
+* Сообщение (getMessage())
+* Стек (getStackTrace())
+* Причина (getCause())
+* Подавленные исключения (addSuppressed()/getSuppressed())
 
 ### Логирование
-> * Фреймворки: Log4j, Logback, Slf4j, Java Logging API (java.util.logging)
-> * Уровни: ERROR/WARN/INFO/DEBUG
-> * Форматтеры: как логировать? (представление сообщений)
-> * Аппендеры: куда логировать?
+* Фреймворки: Log4j, Logback, Slf4j, Java Logging API (java.util.logging)
+* Уровни: ERROR/WARN/INFO/DEBUG
+* Форматтеры: как логировать? (представление сообщений)
+* Аппендеры: куда логировать?
 
 ### Перебрасывание исключений
 
