@@ -62,6 +62,8 @@ class Main {
     }
 }
 ```
+![Image](/images/Java Collection Framework.drawio_2.svg)
+
 ### Collections<E> extends Iterable<E>
 * `int size();`
 * `boolean isEmpty();`
@@ -162,6 +164,8 @@ _Deque< E > extends Queue< E >_
 #### Стандартные очереди
 * **ArrayDeque** - изменяемая очередь общего назначения
 * **PriorityQueue** - изменяемая очередь с приоритетом (heap-based)
+
+![Image](/images/Java Collection Framework.drawio_3.svg)
 
 ### !!! Не надо использовать !!!
 * **Enumeration** -> Iterator
