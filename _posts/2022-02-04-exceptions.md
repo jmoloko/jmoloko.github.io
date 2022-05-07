@@ -5,7 +5,7 @@ author: Jack Moloko
 key: exceptions
 ---
 
-## Exceptons. Создание и обработка исключений.
+## Exceptions. Создание и обработка исключений.
 
 <!--more-->
 

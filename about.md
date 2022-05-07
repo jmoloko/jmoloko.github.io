@@ -37,5 +37,3 @@ titles: About
 </div>
 </div>
 
-### Итак, кто я...
-
