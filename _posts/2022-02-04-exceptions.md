@@ -1,5 +1,5 @@
 ---
-title: Exceptons. Создание и обработка исключений.
+title: Exceptions. Создание и обработка исключений.
 tags: java exceptions
 author: Jack Moloko
 key: exceptions
