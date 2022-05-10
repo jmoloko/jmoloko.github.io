@@ -13,11 +13,13 @@ titles: About
 ```json
 
 
+
 {
     name: Andrey B.,
     age: 41,
     country: Russia,
     city: Chelyabinsk,
+
     contacts:
         {
             github: github.com/jmoloko,
@@ -27,6 +29,7 @@ titles: About
             telegram: @jackmoloko
         }
 }
+
 
 
 ```    
