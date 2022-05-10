@@ -258,15 +258,15 @@ public class Main {
 
 #### Атомарные переменные (j.u.c.atomic)
 
-* **AtomicBoolean**|*Integer*|*Long*|**Reference**
+* **AtomicBoolean**/*Integer*/*Long*/**Reference**
   * `AtomicIntegerReference AtomicBooleanReference ...`
-* **AtomicInteger**|*Long*|**ReferenceArray**
+* **AtomicInteger**/*Long*/**ReferenceArray**
   * `AtomicIntegerReferenceArray AtomicLongReferenceArray`
-* **AtomicInteger**|*Long*|**ReferenceFieldUpdater**
+* **AtomicInteger**/*Long*/**ReferenceFieldUpdater**
   * `AtomicIntegerReferenceFieldUpdater ...`
-* *Long*|*Double*|**Accumulator**
+* *Long*/*Double*/**Accumulator**
   * `LongAccumulator DoubleAccumulator`
-* *Long*|*Double*|**Adder**
+* *Long*/*Double*/**Adder**
   * `LongAdder DoubleAdder`
 
 
