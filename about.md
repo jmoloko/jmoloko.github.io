@@ -13,7 +13,6 @@ titles: About
 ```json
 
 
-
 {
     name: Andrey B.,
     age: 41,
@@ -24,12 +23,15 @@ titles: About
         {
             github: github.com/jmoloko,
             site: jmoloko.github.io,
-            linkedin: linkedin.com/in/andrey-b-437b56231,
-            email: jackmoloko@yandex.ru,
+            linkedin: linkedin.com/in/moloko,
+            email: 
+                [
+                    mdevmann@yahoo.com,
+                    jackmoloko@yandex.ru
+                ]
             telegram: @jackmoloko
         }
 }
-
 
 
 ```    
