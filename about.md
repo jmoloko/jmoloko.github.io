@@ -18,17 +18,12 @@ titles: About
     age: 41,
     country: Russia,
     city: Chelyabinsk,
-    
     contacts:
         {
             github: github.com/jmoloko,
             site: jmoloko.github.io,
             linkedin: linkedin.com/in/moloko,
-            email: 
-                [
-                    mdevmann@yahoo.com,
-                    jackmoloko@yandex.ru
-                ]
+            email: [ mdevmann@yahoo.com, jackmoloko@yandex.ru ]
             telegram: @jackmoloko
         }
 }
